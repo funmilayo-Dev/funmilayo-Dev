@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funmilayo-Dev
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any web or software development.
 - 📫 How to reach me ...
 
