@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @funmilayo-Dev
-- 👀 I’m interested in Software Engineering and Development
+- 👀 I’m interested in Software Engineering and DevOps
 - 🌱 I’m a fullstack developer
 - 💞️ I love python 
 - 💞️ I’m looking to collaborate on any web or software development.
